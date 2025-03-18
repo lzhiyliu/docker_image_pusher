@@ -1,4 +1,4 @@
-imroc
+nftables
 #支持私库
 imroc/nftables:ubuntu-24.04
 armclouding/nftables:ubuntu-24.04
