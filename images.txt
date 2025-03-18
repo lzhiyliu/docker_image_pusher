@@ -1,7 +1,6 @@
 #nftables
 #支持私库
-imroc/nftables:ubuntu-24.04
---platform=linux/amd64
+imroc/nftables@sha256:fa78a74c1a8dc837e8b953b54b9f03e495e7c5ca49bd2941b66b52451fccba92
 #支持指定架构
 #--platform=linux/amd64 armclouding/nftables:ubuntu-24.04
 #nftables:ubuntu-24.04
