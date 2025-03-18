@@ -154,6 +154,7 @@ jobs:
             echo "磁盘空间清理完毕"
             echo "=============================================================================="
             df -hT
-            echo "=============================================================================="     
+            echo "=============================================================================="  
+            echo -e "阿里云镜像地址： crpi-aobgu8xbtvvhvow8.cn-hangzhou.personal.cr.aliyuncs.com/armclouding/$platform_prefix$name_space_prefix$image_name_tag"
             
         done < images.txt
