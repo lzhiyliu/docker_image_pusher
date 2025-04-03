@@ -1,6 +1,6 @@
 #nftables
 #支持私库
-dragonflyoss/dfdaemon@sha256:c5b04534e3b0722b400fd4825a0646edf1122ae8af099dff14a71a9ef19bc0a7
+delugehq/deluge
 #支持指定架构
 #--platform=linux/amd64 armclouding/nftables:ubuntu-24.04
 #nftables:ubuntu-24.04
