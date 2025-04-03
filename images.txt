@@ -1,6 +1,6 @@
 #nftables
 #支持私库
-linuxserver/rutorrent@sha256:bc917541e51c638e15fe4e7fcb0cb8f4251b4de3b031aae73b19ef0d072e3e5a
+anandarg/xmlrpc
 #支持指定架构
 #--platform=linux/amd64 armclouding/nftables:ubuntu-24.04
 #nftables:ubuntu-24.04
