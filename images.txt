@@ -1,6 +1,6 @@
 #nftables
 #支持私库
-linuxserver/transmission:4.0.6
+crazymax/rtorrent-rutorrent:edge
 #支持指定架构
 #--platform=linux/amd64 armclouding/nftables:ubuntu-24.04
 #nftables:ubuntu-24.04
