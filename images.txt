@@ -1,6 +1,6 @@
 #nftables
 #支持私库
-80imike/check-docker-connection
+gcr.io/distroless/base
 #支持指定架构
 #--platform=linux/amd64 armclouding/nftables:ubuntu-24.04
 #nftables:ubuntu-24.04
