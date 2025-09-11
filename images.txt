@@ -1,6 +1,6 @@
 #nftables
 #支持私库
-ghcr.io/community-vyprojects/vymanager-frontend:main
+nginx:1.29.1-perl
 #支持指定架构
 #--platform=linux/amd64 armclouding/nftables:ubuntu-24.04
 #nftables:ubuntu-24.04
