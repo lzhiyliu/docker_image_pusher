@@ -1,6 +1,6 @@
 #nftables
 #支持私库
-nacos/nacos-server:v2.4.3
+ubuntu/nginx:1.18-22.04_beta
 #支持指定架构
 #--platform=linux/amd64 armclouding/nftables:ubuntu-24.04
 #nftables:ubuntu-24.04
