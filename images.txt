@@ -4,3 +4,4 @@ ubuntu/nginx:1.18-22.04_beta
 #支持指定架构
 #--platform=linux/amd64 armclouding/nftables:ubuntu-24.04
 #nftables:ubuntu-24.04
+#地址信息：crpi-aobgu8xbtvvhvow8.cn-hangzhou.personal.cr.aliyuncs.com/armclouding
