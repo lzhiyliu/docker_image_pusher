@@ -1,6 +1,6 @@
 #nftables
 #支持私库
-bitnami/cadvisor
+google/cadvisor:v0.33.0
 #支持指定架构
 #--platform=linux/amd64 armclouding/nftables:ubuntu-24.04
 #nftables:ubuntu-24.04
