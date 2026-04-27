@@ -1,6 +1,6 @@
 #nftables
 #支持私库
-evil0ctal/douyin_tiktok_download_api:latest
+zhaojun1998/zfile-pro:latest
 #支持指定架构
 #--platform=linux/amd64 armclouding/nftables:ubuntu-24.04
 #nftables:ubuntu-24.04
